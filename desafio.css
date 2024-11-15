@@ -1,0 +1,51 @@
+@media(max-width:600px){
+    body{background-color: rgb(108, 245, 199);}
+    header{
+        text-align: center;
+        background-color: rgb(0, 255, 115);
+       
+    }
+    nav{
+    background-position: center;
+    }
+    #boton{ background-color:chartreuse;
+    color: black;}
+    #boton:hover{
+    background-color: black;
+    color: chartreuse;
+    }
+    main{background-color: rgb(95, 207, 189);
+        color: black;
+    } 
+    .actualizaciones{display: flex;}
+}
+@media(min-width:1100px){
+    body{background-color: rgb(108, 245, 199);}
+
+    header{
+        text-align: center;
+        background-color: rgb(0, 255, 115);
+       
+    }
+    nav{
+    background-position: center;
+    }
+    #boton{ background-color:chartreuse;
+    color: black;}
+    #boton:hover{
+    background-color: black;
+    color: chartreuse;
+    }
+    main{background-color: rgb(95, 207, 189);
+        color: black;
+    } 
+    .actualizaciones{display: flex;}
+    
+
+}
+
+@media(){}
+@media(){}
+@media(){}
+@media(){}
+
